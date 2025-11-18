@@ -1,0 +1,8 @@
+[2025-11-12 13:01:01] Sistema funcionando correctamente
+[2025-11-12 13:06:44] Color cambiado a Red
+[2025-11-12 13:06:48] Cerrando sesión
+[2025-11-12 13:08:10] Color cambiado a Red
+[2025-11-12 13:08:13] Cerrando sesión
+[2025-11-12 17:32:41] Color cambiado a Yellow
+[2025-11-12 17:32:53] Visualizando registro del sistema
+[2025-11-12 17:33:01] Cerrando sesión
